@@ -25,7 +25,7 @@ The Hotel Management System is a console-based application designed to manage ho
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AbhayPratap05/HotelManagementSystem.git
+   git clone https://github.com/username/HotelManagementSystem.git
 2. Navigate to the project directory:
     cd P5-HotelManagementSystem
 3. Compile the code:
